@@ -3,6 +3,7 @@
 This project consist of a set of executions and practices that combines software engineering and Information Technology.
 
 ### Projects foucs
+```bash
 Shell
 Navigation
 Looking Around
@@ -11,6 +12,7 @@ Working with Commands
 Reading Man Pages
 Keyboard Shortcuts for Bash
 LTS (Long Term standard)
+```
 
 #### Dev tools and IDE used
 ```bash

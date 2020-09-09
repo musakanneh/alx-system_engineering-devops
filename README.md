@@ -14,7 +14,7 @@ LTS (Long Term standard)
 
 #### Dev tools and IDE used
 ```bash
-[Vim](https://www.vim.org/ "Title")
+Vim
 Ubuntu 14.04
 Bash
 linux terminal

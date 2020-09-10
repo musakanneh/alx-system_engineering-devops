@@ -9,4 +9,3 @@ This is second alx-holberton school project. It consists of two sets of shell sc
 
 [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 
-[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell) 

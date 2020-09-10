@@ -1,6 +1,6 @@
-# alx-system_engineering-devops
+# ALx System Engineeringm Devops
 ## Overview
-This is second alx school project. It consists of two sets of shell scripting -the bacis and permissions implementations. The project combines the concepts of software engineering and Information Technology.
+This is second alx-holberton school project. It consists of two sets of shell scripting -the bacis and permissions implementations. The project combines the concepts of software engineering and Information Technology.
 
 ### Dev tools and IDE used
 [Vim](https://www.vim.org/)
@@ -10,3 +10,5 @@ This is second alx school project. It consists of two sets of shell scripting -t
 [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 
 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
+[Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_%28Unix%29) 

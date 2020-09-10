@@ -1,2 +1,5 @@
 # 0x00-shell_basics
-This ffile contains a script that prints the absolute path name of the current working directory.
+This directory contains 18 files with essential shell scripts and their implementations.
+
+## References
+[pip](https://pip.pypa.io/en/stable/)

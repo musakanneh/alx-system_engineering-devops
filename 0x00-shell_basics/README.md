@@ -2,4 +2,4 @@
 This directory contains 18 files with essential shell scripts and their implementations.
 
 ## References
-[pip](https://pip.pypa.io/en/stable/)
+[Linux Command](http://linuxcommand.org/index.php)

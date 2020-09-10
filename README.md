@@ -4,6 +4,9 @@ This is second alx school project. It consists of two sets of shell scripting -t
 
 ### Dev tools and IDE used
 [Vim](https://www.vim.org/)
+
 [Ubuntu 14.04 LTS](http://releases.ubuntu.com/trusty/)
+
 [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+
 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)

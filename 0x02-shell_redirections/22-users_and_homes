@@ -1,2 +1,2 @@
 #!/bin/bash
-awk -F":" '$7 == "/bin/false" {print $1 $6}' /etc/passwd
+cut -d: -f 1,6 /etc/passwd | sort -d

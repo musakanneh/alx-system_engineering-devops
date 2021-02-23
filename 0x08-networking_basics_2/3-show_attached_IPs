@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Show all attached IPs
+# ifconfig | grep "inet addr" | awk '{print $2}' | cut -d":" -f2
+# Using experimental -P option of grep
+ifconfig | grep -oP "(?<=inet addr:)[d.]*\b"

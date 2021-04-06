@@ -33,6 +33,8 @@ int main(void)
 		children++;
 	}
 	if (pid != 0)
+	{
 		infinite_while();
+	}
 	return (0);
 }

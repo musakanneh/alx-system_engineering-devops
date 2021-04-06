@@ -1,5 +1,6 @@
 # Shell Basics
 ![alt](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/205/image.jpg)
+
 This directory contains 18 files with essential shell scripts and their implementations.
 
 # General

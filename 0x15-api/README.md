@@ -28,7 +28,7 @@ One popular way to expose an application and dataset is to use an API. Often, th
 - Significance of CapWords or CamelCase in Python
 
 ## Questions
-- [Gather data from an API]() - Write a Python script that, using this REST API, for a given employee ID, returns information about his/her TODO list progress.
-- [Export to CSV mandatory]() - Using what you did in the task #0, extend your Python script to export data in the CSV format.
-- [ Export to JSON]() - Using what you did in the task #0, extend your Python script to export data in the JSON format.
-- [ Dictionary of list of dictionaries]() - Using what you did in the task #0, extend your Python script to export data in the JSON format.
+- [Gather data from an API](https://github.com/musakanneh/alx-system_engineering-devops/blob/master/0x15-api/0-gather_data_from_an_API.py) - Write a Python script that, using this REST API, for a given employee ID, returns information about his/her TODO list progress.
+- [Export to CSV mandatory](https://github.com/musakanneh/alx-system_engineering-devops/blob/master/0x15-api/1-export_to_CSV.py) - Using what you did in the task #0, extend your Python script to export data in the CSV format.
+- [ Export to JSON](https://github.com/musakanneh/alx-system_engineering-devops/blob/master/0x15-api/2-export_to_JSON.py) - Using what you did in the task #0, extend your Python script to export data in the JSON format.
+- [ Dictionary of list of dictionaries](https://github.com/musakanneh/alx-system_engineering-devops/blob/master/0x15-api/3-dictionary_of_list_of_dictionaries.py) - Using what you did in the task #0, extend your Python script to export data in the JSON format.

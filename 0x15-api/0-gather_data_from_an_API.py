@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Getting from API placeholder"""
+"""Getting data from API placeholder."""
 
 import requests
 import sys
@@ -8,10 +8,10 @@ if __name__ == '__main__':
     req_endpoint = "https://jsonplaceholder.typicode.com/"
     userId = sys.argv[1]
     user = requests.get(
-        req_endpoint + 'users/{}'.format(userId), verify=False).json()
+        req_endpoint + 'users/{}'.format(userId)).json()
 
     todos = requests.get(
-        req_endpoint + 'todos?userId={}'.format(userId), verify=False).json()
+        req_endpoint + 'todos?userId={}'.format(userId)).json()
 
     completed = []
     for task in todos:

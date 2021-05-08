@@ -12,6 +12,7 @@ One popular way to expose an application and dataset is to use an API. Often, th
 - [What is a REST API](https://www.sitepoint.com/rest-api/)
 - [What are microservices](https://smartbear.com/solutions/microservices/)
 - [PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://www.python.org/dev/peps/pep-0008/)
+- [Public APIs](https://public-apis.xyz/)
 
 ## General
 - What Bash scripting should not be used for

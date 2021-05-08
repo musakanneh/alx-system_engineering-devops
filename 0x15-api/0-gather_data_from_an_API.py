@@ -22,5 +22,4 @@ if __name__ == '__main__':
           .format(user.get('name'),
                   len(completed_task), len(todos)))
 
-    for task in completed_task:
-        print('\t', task)
+    print("\n".join("\t {}".format(task) for task in completed_task))
